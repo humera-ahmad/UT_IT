@@ -1,0 +1,55 @@
+[debug] Running TaskDef(com.knoldus.FactorialAndPalindrome.Palindrome.request.PalindromeImplTest, org.scalatest.tools.Framework$$anon$1@38772342, false, [SuiteSelector])
+[debug] Running TaskDef(com.knoldus.password.validator.PasswordValidatorTest, org.scalatest.tools.Framework$$anon$1@38772342, false, [SuiteSelector])
+[info] PasswordValidatorTest:
+[info] Password
+[info] - should have all necessary features
+[info] - should contain at least one Uppercase Character
+[info] - should contain at least one Lowercase Character
+[info] - should contain at least one number
+[info] - should contain at least one Special Character
+[info] - should contain minimum 8 Characters
+[info] - should contain maximum 15 Characters
+[info] - should not contain any spaces
+[debug] Running TaskDef(com.knoldus.FactorialAndPalindrome.Factorial.validator.FactorialValidatorTest, org.scalatest.tools.Framework$$anon$1@38772342, false, [SuiteSelector])
+[info] FactorialValidatorTest:
+[info] Number
+[info] - should is correct
+[info] Number
+[info] - should be positive, you entered negative number
+[debug] Running TaskDef(com.knoldus.FactorialAndPalindrome.Palindrome.validator.PalindromeValidatorTest, org.scalatest.tools.Framework$$anon$1@38772342, false, [SuiteSelector])
+[info] PalindromeValidatorTest:
+[info] Palindrome
+[info] - should be palindrome
+[info] - should not be palindrome
+[debug] Running TaskDef(com.knoldus.password.request.PasswordImplTest, org.scalatest.tools.Framework$$anon$1@38772342, false, [SuiteSelector])
+[info] PalindromeImplTest:
+[info] Palindrome
+[info] - should return true
+[info] - should return false
+[debug] Running TaskDef(com.knoldus.FactorialAndPalindrome.Factorial.request.FactorialImplTest, org.scalatest.tools.Framework$$anon$1@38772342, false, [SuiteSelector])
+[info] FactorialImplTest:
+[info] Factorial
+[info] - should pass
+[info] - should not be negative
+[info] PasswordImplTest:
+[info] Password
+[info] - should be correct
+[info] - should not be correct because of spacing
+[info] - should not be correct because there must be atleast one number
+[info] - should not be correct because there must be atleast one lowercase
+[info] - should not be correct because there must be atleast one uppercase character
+[info] - should not be correct because there must be atleast one special character
+[info] - should not be correct because there must be atleast 8 characters
+[info] - should not be correct because there must be atmost 15 characters
+[info] Run completed in 12 seconds, 316 milliseconds.
+[info] Total number of tests run: 24
+[info] Suites: completed 6, aborted 0
+[info] Tests: succeeded 24, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	com.knoldus.FactorialAndPalindrome.Palindrome.request.PalindromeImplTest
+[debug] 	com.knoldus.FactorialAndPalindrome.Palindrome.validator.PalindromeValidatorTest
+[debug] 	com.knoldus.password.request.PasswordImplTest
+[debug] 	com.knoldus.password.validator.PasswordValidatorTest
+[debug] 	com.knoldus.FactorialAndPalindrome.Factorial.request.FactorialImplTest
+[debug] 	com.knoldus.FactorialAndPalindrome.Factorial.validator.FactorialValidatorTest

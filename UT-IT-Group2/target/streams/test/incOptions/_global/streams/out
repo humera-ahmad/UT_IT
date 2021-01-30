@@ -1,0 +1,9 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Acer\IdeaProjects\UT-IT-Group2\target\scala-2.13\test-classes.bak
+[debug] About to delete class files:
+[debug] 	PalindromeImplTest.class
+[debug] We backup class files:
+[debug] 	PalindromeImplTest.class
+[debug] Registering generated classes:
+[debug] 	PalindromeImplTest$$typecreator1$1.class
+[debug] 	PalindromeImplTest.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Acer\IdeaProjects\UT-IT-Group2\target\scala-2.13\test-classes.bak
