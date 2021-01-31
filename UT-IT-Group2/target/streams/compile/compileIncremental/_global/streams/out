@@ -1,6 +1,0 @@
-[debug] [zinc] IncrementalCompile -----------
-[debug] IncrementalCompile.incrementalCompile
-[debug] previous = Stamps for: 8 products, 8 sources, 1 libraries
-[debug] current source = Set(${BASE}/src/main/scala/com/knoldus/FactorialAndPalindrome/Factorial/validator/FactorialValidator.scala, ${BASE}/src/main/scala/com/knoldus/FactorialAndPalindrome/Palindrome/request/PalindromeImpl.scala, ${BASE}/src/main/scala/com/knoldus/password/validator/PasswordValidator.scala, ${BASE}/src/main/scala/com/knoldus/FactorialAndPalindrome/Utility/UtilityFactorial.scala, ${BASE}/src/main/scala/com/knoldus/FactorialAndPalindrome/Palindrome/validator/PalindromeValidator.scala, ${BASE}/src/main/scala/com/knoldus/FactorialAndPalindrome/Factorial/request/FactorialImpl.scala, ${BASE}/src/main/scala/com/knoldus/password/request/PasswordImpl.scala, ${BASE}/src/main/scala/com/knoldus/FactorialAndPalindrome/Utility/UtilityPalindrome.scala)
-[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
-[debug] No changes
