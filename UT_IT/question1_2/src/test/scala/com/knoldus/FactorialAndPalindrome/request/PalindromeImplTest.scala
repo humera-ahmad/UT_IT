@@ -1,8 +1,8 @@
-package com.knoldus.FactorialAndPalindrome.Palindrome.request
+package com.knoldus.FactorialAndPalindrome.request
 
-import com.knoldus.FactorialAndPalindrome.Palindrome.validator.PalindromeValidator
-import org.scalatest.flatspec.AnyFlatSpec
+import com.knoldus.FactorialAndPalindrome.validator.PalindromeValidator
 import org.mockito.MockitoSugar.{mock, when}
+import org.scalatest.flatspec.AnyFlatSpec
 
 class PalindromeImplTest extends AnyFlatSpec {
 

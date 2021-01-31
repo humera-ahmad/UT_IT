@@ -1,4 +1,4 @@
-package com.knoldus.FactorialAndPalindrome.Factorial.validator
+package com.knoldus.FactorialAndPalindrome.validator
 
 class FactorialValidator{
 

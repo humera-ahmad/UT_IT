@@ -1,7 +1,7 @@
-package com.knoldus.FactorialAndPalindrome.Factorial.request
+package com.knoldus.FactorialAndPalindrome.request
 
-import com.knoldus.FactorialAndPalindrome.Factorial.validator.FactorialValidator
 import com.knoldus.FactorialAndPalindrome.Utility.UtilityFactorial
+import com.knoldus.FactorialAndPalindrome.validator.FactorialValidator
 
 class FactorialImpl(factorialValidator: FactorialValidator) extends UtilityFactorial {
 

@@ -1,4 +1,4 @@
-package com.knoldus.FactorialAndPalindrome.Palindrome.validator
+package com.knoldus.FactorialAndPalindrome.validator
 
 import org.scalatest.flatspec.AnyFlatSpec
 

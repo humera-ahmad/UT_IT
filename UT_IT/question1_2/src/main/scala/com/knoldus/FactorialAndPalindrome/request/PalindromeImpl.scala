@@ -1,7 +1,7 @@
-package com.knoldus.FactorialAndPalindrome.Palindrome.request
+package com.knoldus.FactorialAndPalindrome.request
 
-import com.knoldus.FactorialAndPalindrome.Palindrome.validator.PalindromeValidator
 import com.knoldus.FactorialAndPalindrome.Utility.UtilityPalindrome
+import com.knoldus.FactorialAndPalindrome.validator.PalindromeValidator
 
 class PalindromeImpl(palindromeValidator: PalindromeValidator) extends UtilityPalindrome {
   val success = "It is a Palindrome number"
